@@ -5,3 +5,10 @@
 
 #test jonas
 
+def hello():
+    pass
+
+
+def bye():
+    pass
+
